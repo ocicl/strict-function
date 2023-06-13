@@ -4,7 +4,7 @@
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/cxxxr/strict-function.git   |
-| commit  | {"messa  |
+| commit  | 4079e95  |
 | systems | strict-function |
 |---------+-------------------------------------------|
 
