@@ -1,0 +1,10 @@
+* strict-function
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/cxxxr/strict-function.git   |
+| commit  | {"messa  |
+| systems | strict-function |
+|---------+-------------------------------------------|
+
